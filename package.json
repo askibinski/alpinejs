@@ -1,0 +1,22 @@
+{
+  "name": "alpinejs-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/askibinski/alpinejs.git"
+  },
+  "author": "Albert Skibinski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/askibinski/alpinejs/issues"
+  },
+  "homepage": "https://github.com/askibinski/alpinejs#readme",
+  "dependencies": {
+    "alpinejs": "^2.2.5"
+  }
+}

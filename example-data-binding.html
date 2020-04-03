@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Example of data binding in AlpineJS</title>
+</head>
+
+<body>
+
+  <div x-data="{ title: 'Hello World!', body: 'Lorem ipsum' }">
+    <h1 x-text="title"></h1>
+    <div x-text="body"></div>
+  </div>
+
+  <script src="./node_modules/alpinejs/dist/alpine.js" type="module" defer></script>
+</body>
+
+</html>
